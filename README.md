@@ -1,23 +1,22 @@
-
 📊 Amazon Sales Analysis Dashboard – Power BI
-This Power BI project presents an interactive and insightful Sales Analysis Dashboard built using Amazon product sales data. It demonstrates how data can be transformed into actionable insights using visual analytics.
+This Power BI project presents an interactive and insightful Sales Analysis Dashboard built using Amazon product sales data. It demonstrates how raw data can be transformed into actionable insights through compelling visual analytics.
 
 🔍 Project Overview
-This dashboard helps stakeholders understand:
+This dashboard helps stakeholders gain insights into:
 
-Year-to-Date (YTD) Sales
+📆 Year-to-Date (YTD) Sales
 
-Quarter-to-Date (QTD) Sales
+📆 Quarter-to-Date (QTD) Sales
 
-Total Products Sold
+📦 Total Products Sold
 
-Total Customer Reviews
+📝 Total Customer Reviews
 
-Top Performing Product Categories
+🏆 Top Performing Product Categories
 
-Sales Trends (Monthly & Weekly)
+📊 Sales Trends (Monthly & Weekly)
 
-Top 5 Products by Sales & Reviews
+🏅 Top 5 Products by Sales & Reviews
 
 💡 Key Features
 📈 Dynamic KPI Indicators
@@ -30,26 +29,44 @@ Top 5 Products by Sales & Reviews
 
 🔁 Interactive Filters for Product & Quarter Selection
 
-🧠 Data Model with One-to-Many Relationship (Fact-Dimension)
+🧠 Optimized Data Model with One-to-Many Relationship (Fact-Dimension)
 
 🧱 Data Model
 Fact Table: Amazon Sales Data (Order Date, Price, Reviews, Product Info)
 
 Dimension Table: Custom Date Table with Month, Quarter, and Calendar logic
 
-Relationship: One-to-many (Date Table → Amazon_Data[Order Date])
+Relationship: One-to-Many (Date Table[Date] → Amazon_Data[Order Date])
 
 🛠️ Tools Used
-Power BI
+Microsoft Power BI
 
-DAX
+DAX (Data Analysis Expressions)
 
-Data Modeling (Star Schema)
+Data Modeling using Star Schema
 
 Custom Date Table Logic
 
 📷 Dashboard Snapshots
-<img src="C:\Users\ajayk\Pictures\Screenshot 2025-05-11 142402.png" width="100%"/> 
-<img src="C:\User![Screenshot 2025-05-11 143705](https://github.com/user-attachments/assets/b4446d22-14e3-4c78-9925-b7f81f1bdaf6)
-s\ajayk\Pic![Screenshot 2025-05-11 142402](https://github.com/user-attachments/assets/dedab7d4-f2e3-405b-a02a-dead14e66747)
-tures\Screenshot 2025-05-11 143705.png" width="70%"/>
+Replace below image links with GitHub-uploaded images after pushing files.
+![Screenshot 2025-05-11 142402](https://github.com/user-attachments/assets/919cab7e-0c1f-4dc1-b809-66e218e0f71d)
+![Screenshot 2025-05-11 143705](https://github.com/user-attachments/assets/4b1b78b9-c858-4b53-8d79-23dba505cf8c)
+
+
+📁 Project Structure
+bash
+Copy
+Edit
+amazon-sales-powerbi-dashboard/
+│
+├── 📊 Amazon_Sales_Analysis.pbix         # Power BI File
+├── 📁 assets/                            # Dashboard screenshots
+├── 📄 README.md
+└── 📄 .gitignore
+⭐ How to Use
+Clone the repository
+
+Open the .pbix file using Power BI Desktop
+
+Explore the dashboard with filters and slicers
+
