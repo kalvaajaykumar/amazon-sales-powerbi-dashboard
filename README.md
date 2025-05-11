@@ -50,4 +50,6 @@ Custom Date Table Logic
 
 📷 Dashboard Snapshots
 <img src="C:\Users\ajayk\Pictures\Screenshot 2025-05-11 142402.png" width="100%"/> 
-<img src="C:\Users\ajayk\Pictures\Screenshot 2025-05-11 143705.png" width="70%"/>
+<img src="C:\User![Screenshot 2025-05-11 143705](https://github.com/user-attachments/assets/b4446d22-14e3-4c78-9925-b7f81f1bdaf6)
+s\ajayk\Pic![Screenshot 2025-05-11 142402](https://github.com/user-attachments/assets/dedab7d4-f2e3-405b-a02a-dead14e66747)
+tures\Screenshot 2025-05-11 143705.png" width="70%"/>
